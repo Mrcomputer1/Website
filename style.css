@@ -1,9 +1,17 @@
-a.navlink{
+a{
   color: blue;
   text-decoration: none;
 }
-a.navlink:hover{
+a:hover{
   text-decoration: underline;
+}
+a.blogtitlelink{
+  color:white;
+  text-decoration: underline;
+}
+a.blogtitlelink:hover{
+  color:black;
+  background-color:white;
 }
 body{
   background-color: black;
